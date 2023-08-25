@@ -8,4 +8,4 @@
 - ♟️ Chess is my favorite hobby
 
 ### Languages and tools
-
+![С#](https://github.com/4eever/4eever/blob/main/assets/c-logo-icon-18.png)
