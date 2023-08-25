@@ -16,7 +16,3 @@
     <img src="https://github.com/4eever/4eever/blob/main/assets/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f6a6574627261696e732d312d6c6f676f2d706e672d7472616e73706172656e742e706e67.png" alt="JetBrains" width="60" height="50">
 </div>
 
-
-
-![С#]()
-
