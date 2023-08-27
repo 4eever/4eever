@@ -2,9 +2,9 @@
 
 ## I'm a Beginner Software Engeneer
 
-- 💻 I enjoy coding various programs.
-- 🤔 Solving puzzles is a fascination of mine.
-- 🌳 Nature and the outdoors hold a special place in my heart.
+- 💻 I really like writing different computer programs.
+- 🤔 I'm fascinated by solving puzzles.
+- 🌳 I have a special fondness for nature and the outdoors.
 - ♟️ Chess is my favorite hobby
 
 ### Languages and tools
